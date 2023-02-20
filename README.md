@@ -1,3 +1,6 @@
-# Personal Website V2
-A second attempt at a personal website, through following: https://www.youtube.com/watch?v=FazgJVnrVuI
+# Website Tutorial 
+
+Following a website creation tutorial in preparation for creating own website
+
+Website Tutorial: https://www.youtube.com/watch?v=FazgJVnrVuI
 
